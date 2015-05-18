@@ -11,3 +11,5 @@ c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\Elast
 c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Release\ElasticHealthMonitor.xml
 c:\users\magpie\documents\visual studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Release\ElasticHealthMonitor.pdb
 C:\Users\Magpie\Documents\Visual Studio 2010\Projects\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Release\ElasticHealthMonitor.vbprojResolveAssemblyReference.cache
+C:\Users\moengage\Documents\GitHub\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Release\ElasticHealthMonitor.xml
+C:\Users\moengage\Documents\GitHub\ElasticHealthMonitor\ElasticHealthMonitor\obj\x86\Release\ElasticHealthMonitor.pdb
